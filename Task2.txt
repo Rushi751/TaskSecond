@@ -21,7 +21,8 @@ Ans=> Document=>
 	 document.MethodName()
 	 
 	 Window=>
-	   Top most object of DOM hierarchy.
+	   Top most object of DOM hierarchy.(Document Object Model)
+	   
 	   The window object is the topmost object of the DOM hierarchy.
 	   It represents a browser window or frame that displays the contents of the webpage.
 	   Whenever a window appears on the screen to display the contents of the document,
